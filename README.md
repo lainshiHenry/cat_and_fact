@@ -1,0 +1,1 @@
+New app that shows some cute images of cats and a fact about cats
