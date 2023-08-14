@@ -7,4 +7,13 @@ export const appStyles = StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
     },
+    boldText: {
+      textAlign: 'center',
+      fontSize: 20,
+      color: 'red',
+    },
+    image: {
+      width: 400,
+      height: 400,
+    },
   });
