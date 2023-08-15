@@ -1,7 +1,15 @@
 {
   "name": "cat_and_fact",
   "version": "1.0.0",
+  "ios.buildNumber": "1.0.0",
+  "android.versionCode": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "ios":{
+    "version": "1.0.0"
+  },
+  "android":{
+    "version": "1.0.0"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
