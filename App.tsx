@@ -15,7 +15,6 @@ export default function App() {
   const txtController = new TextController();
 
   function getInfo(){
-    console.log('you pressed get new info');
     Alert.alert('you pressed a new button');
 
     setIsLoading(true);
